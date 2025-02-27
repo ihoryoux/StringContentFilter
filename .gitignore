@@ -1,0 +1,26 @@
+# Composer dependencies
+/vendor/
+composer.lock
+
+# PHPUnit / coverage
+.phpunit.result.cache
+.phpunit.cache/
+coverage/
+
+# IDE / Editor configs
+.idea/
+.vscode/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Local environment/config files
+.env
+.env.*
+*.local
+
+# Logs / temp
+*.log
+*.cache
